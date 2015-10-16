@@ -32,10 +32,3 @@ This repo is full of code problems that we use to evaluate your skill set.  Plea
 ### Shortest Code Problems
 
 * [Shortest Fizz Buzz](https://github.com/knownsubset/code-problems/tree/master/problems/shortest-fizz-buzz)
-
-## Tests
-
-```sh
-npm install # Installs `mocha` and any other dependencies needed to run
-npm test    # Runs the testing scripts
-```
